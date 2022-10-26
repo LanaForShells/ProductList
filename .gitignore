@@ -17,4 +17,5 @@ xcuserdata/
 *.ipa
 *.xcworkspace
 *.xcuserstate
+**/.DS_Store
 !default.xcworkspace
